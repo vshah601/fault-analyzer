@@ -29,7 +29,5 @@ This project is a **Power System Fault Diagnosis Assistant** built with Python, 
 
 ## Requirements
 
-- Python 3.10+ (tested on 3.12)
-- Packages:
-  ```bash
-  pip install openai gradio python-dotenv numpy
+- Python 3.10+
+- OpenAI API key
